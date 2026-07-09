@@ -54,5 +54,4 @@ Your garden evolves based on your achievements:
 | Every 10 completed tasks and 5 sessions | 🐦 Bird      |
 
 ## 👤 Author
-
-Developed as a personal project to practice JavaScript, DOM manipulation, local storage, and front-end web development while creating a fun and engaging productivity tool.
+-[Grace](https://github.com/Temi-ay)
