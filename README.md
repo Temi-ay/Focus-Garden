@@ -54,7 +54,7 @@ Your garden evolves based on your achievements:
 | Every 10 completed tasks and 5 sessions | 🐦 Bird      |
 
  ## 📸 Screenshot
- ![Pomodoro Timer Screenshot](Screenshot_24-6-2026_173057_127.0.0.1.jpeg)
+ ![Focus Garden Screenshot](Screenshot_10-7-2026_05216_127.0.0.1.jpeg)
 
 ## 👤 Author
 -[Grace](https://github.com/Temi-ay)
